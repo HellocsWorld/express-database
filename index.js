@@ -1,4 +1,4 @@
-#setup to run HTML code from Public
+
 const express = require('express')
 const app = express()
 app.use(express.static('public'))
