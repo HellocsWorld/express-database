@@ -1,0 +1,22 @@
+{
+  "name": "team-01",
+  "version": "1.0.0",
+  "description": "API for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellocsWorld/express-database.git"
+  },
+  "author": "team-01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellocsWorld/express-database/issues"
+  },
+  "homepage": "https://github.com/HellocsWorld/express-database#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
